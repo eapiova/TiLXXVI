@@ -1,0 +1,4 @@
+name: TiLXXVI
+include: .
+depend: cubical-0.9
+flags: --guardedness
