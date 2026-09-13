@@ -1,8 +1,8 @@
-# TiLXXVI: Observational Strong Inequality
+# TiLXXVI: Strong Inequality in Observational Type Theory
 
-Agda artifact accompanying the extended abstract *Observational Strong
-Inequality* (Trends in Logic XXVI, Sendai, November 2026) by Riccardo
-Borsetto, based on an idea by Iosif Petrakis.
+Agda artifact accompanying the extended abstract *Strong Inequality in
+Observational Type Theory* (Trends in Logic XXVI, Sendai, November 2026) by
+Riccardo Borsetto, based on an idea by Iosif Petrakis.
 
 The construction applies the Köpp–Petrakis strong-negation recipe
 (*Strong negation in the theory of computable functionals TCF*, LMCS
